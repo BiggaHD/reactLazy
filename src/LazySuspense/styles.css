@@ -1,0 +1,31 @@
+.description {
+  width: 50%;
+  margin: 33px auto;
+}
+
+.Cast {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.CastItem {
+  width: 85px;
+  height: 85px;
+  margin: 5px;
+  border: 1px solid rgb(221, 221, 221);
+  box-shadow: 1px 2px 2px lightseagreen;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: lawngreen;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+}
+
+.loading_2 {
+  width: 50%;
+  height: 50%;
+}
